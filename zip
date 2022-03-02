@@ -1,0 +1,18 @@
+public class ZipCodeServiceTest {
+    public ZipCodeServiceTest() {
+    }
+
+    @Test
+    public void should_pass_doOptimisation_case_1() {
+        throw new Error("Unresolved compilation problems: \n\tTest cannot be resolved to a type\n\tThe method assertEquals(int, int) is undefined for the type ZipCodeServiceTest\n\tThe method assertEquals(PairZipCode, PairZipCode) is undefined for the type ZipCodeServiceTest\n\tThe method assertEquals(PairZipCode, PairZipCode) is undefined for the type ZipCodeServiceTest\n\tThe method assertEquals(PairZipCode, PairZipCode) is undefined for the type ZipCodeServiceTest\n");
+    }
+
+    @Test
+    public void should_pass_doOptimisation_case_2() {
+        throw new Error("Unresolved compilation problems: \n\tTest cannot be resolved to a type\n\tThe method assertEquals(int, int) is undefined for the type ZipCodeServiceTest\n\tThe method assertEquals(PairZipCode, PairZipCode) is undefined for the type ZipCodeServiceTest\n\tThe method assertEquals(PairZipCode, PairZipCode) is undefined for the type ZipCodeServiceTest\n");
+    }
+
+    @Test
+    public void should_pass_doOptimisation_case_3() {
+        throw new Error("Unresolved compilation problems: \n\tTest cannot be resolved to a type\n\tThe method assertEquals(int, int) is undefined for the type ZipCodeServiceTest\n\tThe method assertEquals(PairZipCode, PairZipCode) is undefined for the type ZipCodeServiceTest\n\tThe method assertEquals(PairZipCode, PairZipCode) is undefined for the type ZipCodeServiceTest\n");
+    }
